@@ -1,6 +1,8 @@
 # Automation & Testing
+---
 
 ## Auto testing
+---
 ### Web browser
 * selenium
 
@@ -39,8 +41,14 @@ csv columns
 ##### Appium {#appium}
 
 
+ 
+.
 
+.
+
+---
 ### Task Automation / RPA
+---
 `AutoIt (Windows application)`
 
 `sikuli (image recognition)`
