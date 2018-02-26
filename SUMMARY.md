@@ -10,6 +10,7 @@
   * [aaa](tech/auto-test.md#aaa)
 * [Documentations](tech/doc.md)
 * [Java](tech/java.md)
+* [.](tech/ideas.md)
 
 ### Insurance
 * [Insurance](ins-basic.md)
