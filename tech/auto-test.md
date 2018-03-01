@@ -7,7 +7,7 @@
 * selenium
 
 ##### Selenium {#selenium}
-[Github Proj](https://github.com/sasa33k/s3a-selenium)
+[Github Proj](https://github.com/sasa33k/seleTest)
 
 | | |
 | :--- | :--- |
