@@ -4,10 +4,10 @@
 
 ### MS365
 * [Applications of BI Report & Flow](ms365/appBI.md)
-  *[Story Background](ms365/appBI.md#background)
-  *[#1 Claim for Reimbursement](ms365/appBI.md#claim)
-  *[#2 My Finance Report](ms365/appBI.md#myFinReport)
-  *[#3 Restaurant Finder](ms365/appBI.md#restaurantFinder)
+  * [Story Background](ms365/appBI.md#background)
+  * [#1 Claim for Reimbursement](ms365/appBI.md#claim)
+  * [#2 My Finance Report](ms365/appBI.md#myFinReport)
+  * [#3 Restaurant Finder](ms365/appBI.md#restaurantFinder)
 
 ### Technical
 * [Automation & Testing](tech/auto-test.md)
